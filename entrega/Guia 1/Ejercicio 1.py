@@ -2,7 +2,7 @@ print ("Las máquinas me sorprenden con mucha frecuencia")
 
 print("")
 
-print("franco")
+print("Mensaje")
 
 print("23")
 print(23)
