@@ -1,0 +1,12 @@
+a=float(input("Ingrese el primer numero: "))
+b=float(input("Ingrese el segundo numero: "))
+c=float(input("Ingrese el tercer numero: "))
+d=float(input("Ingrese el cuarto numero: "))
+e=float(input("Ingrese el quinto numero: "))
+f=float(input("Ingrese el sexto numero: "))
+g=float(input("Ingrese el septimo numero: "))
+h=float(input("Ingrese el octavo numero: "))
+i=float(input("Ingrese el noveno numero: "))
+j=float(input("Ingrese el decimo numero: "))
+promedio=(a+b+c+d+e+f+g+h+i+j)/10
+print("El promedio de los numeros es: ", promedio)
