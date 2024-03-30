@@ -57,3 +57,5 @@ while a=="si" :
         print(f"El puntaje total del lanzamiento es: {total(resultados_lanzamiento)}")
         print()
         a=input("Quiere realizar otro lanzamiento? (si/no):")
+        if a=="no":
+            break
